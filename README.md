@@ -1,15 +1,4 @@
-<p align="center">
-<img src="https://3rdworldgeeks.files.wordpress.com/2020/10/uzaki-chan.gif" width="539" height="539"/>
-</p>
-
-# 🖤MeliodasBot06💥
-
-#### WhatsApp Bot
-
-## 🔥MΣᄂIӨDΛƧ❤
-
-
-### TERMUX ✔
+TERMUX
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y
@@ -17,10 +6,9 @@
 > cd MeliodasBot06
 > bash install.sh 
 ```
-#### Run👌👍
+Run
 ```bash
 > node index.js
 ```
 
 ---------
-## ❤Gracias por usar🖤 ⚜🟢MeliodasBot^^❤✅
